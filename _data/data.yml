@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: 1390097911[at]qq.com
-    phone:
-    website: michel-liu.github.io/ #do not add http://
+    phone: Beijing Jiaotong University Institute of Information Science
+    website: michel-liu.github.io #do not add http://
     linkedin:
     github: Michel-liu
     telegram: # add your nickname without '@' sign
